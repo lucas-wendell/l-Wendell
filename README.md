@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Wendell
 
-- ✨ Futuro desenvolvedor front-end
+- 💻 Desenvolvedor front-end
 - 📚 Estudando JavaScript
 - 🧠 Estudando desde os 15 anos
 - 📍 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos           entendam.” – Martin Fowler
