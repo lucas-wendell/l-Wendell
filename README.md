@@ -5,10 +5,11 @@
 - 🧠 Estudando desde os 15 anos
 - 📍 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
 
-<div align="center">
+<div align="flex-start">
   <a href="https://github.com/lucas-wendell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-wendell&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
