@@ -25,5 +25,5 @@
     <a href="https://www.instagram.com/lucas_whll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lucas-wendell-0271a022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/lucas-wendelll/l-Wendell/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/lucas-wendell/lucas-wendell/blob/output/github-contribution-grid-snake.svg)
 </div>
