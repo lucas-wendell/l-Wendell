@@ -3,12 +3,12 @@
 - 💻 Desenvolvedor front-end
 - 📚 Estudando JavaScript
 - 🧠 Estudando desde os 15 anos
-- 📍 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos           entendam.” – Martin Fowler
+- 📍 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
 
 <div align="center">
-  <a href="https://github.com/l-Wendell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l-Wendell&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-Wendell&layout=compact&langs_count=7&theme=yeblu"/>
+  <a href="https://github.com/lucas-wendell">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,5 +25,5 @@
     <a href="https://www.instagram.com/lucas_whll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lucas-wendell-0271a022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/l-Wendell/l-Wendell/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/lucas-wendelll/l-Wendell/blob/output/github-contribution-grid-snake.svg)
 </div>
