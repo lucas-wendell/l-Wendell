@@ -20,6 +20,7 @@
   <img align="center" alt="Lucas-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
   
 <div>
