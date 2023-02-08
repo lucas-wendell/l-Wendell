@@ -1,35 +1,145 @@
-## Olá! Eu sou o Lucas Wendell
+<h2 align='center'>Olá! Eu sou o Lucas Wendell</h2>
 
 - 💻 Desenvolvedor front-end
 - 📚 Estudando JavaScript
 - 🧠 Estudando desde os 15 anos
 - 📍 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
 
+<h1 align='center'>Tecnologias</h1>
+
+<table align="center" style="overflow: scroll; max-height: 200px">
+			<tr>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"
+						width="65px"
+						alt="javascript icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Javascript</sub
+					>
+				</td>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg"
+						width="65px"
+						alt="typescript icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Typescript</sub
+					>
+				</td>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
+						width="65px"
+						alt="react icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>ReactJs</sub
+					>
+				</td>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"
+						width="65px"
+						alt="html icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Html</sub
+					>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"
+						width="65px"
+						alt="css icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Css</sub
+					>
+				</td>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg"
+						width="65px"
+						alt="git icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Git</sub
+					>
+				</td>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"
+						width="65px"
+						alt="figma icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Figma</sub
+					>
+				</td>
+				<td align="center">
+					<img
+						src="https://skillicons.dev/icons?i=vite"
+						width="65px"
+						alt="vite icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Vite</sub
+					>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<img
+						src="https://skillicons.dev/icons?i=postman"
+						width="65px"
+						alt="postman icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>Postman</sub
+					>
+				</td>
+				<td align="center">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"
+						width="65px"
+						alt="vscode icon"
+					/><br />
+					<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
+						>VSCode</sub
+					>
+				</td>
+			</tr>
+</table>
+
+<h1 align='center'>Estatísticas</h1>
+
 <div align="center">
-  <a href="https://github.com/lucas-wendell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-wendell&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
-</div>
+  <img height="180em"  width='100%' src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&show_icons=true&bg_color=EDE9E6&title_color=1B3849&icon_color=FF6F4A&border_color=1B3849&hide=issues,contribs" alt='my stats'/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40"               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</div>
-  
-##
+  <img height="180em"  width='100%' src="https://streak-stats.demolab.com?user=lucas-wendell&background=EDE9E6&border=1B3849&fire=FF6F4A&stroke=1B3849&ring=1B3849&currStreakNum=FF6F4A&sideNums=FF6F4A&currStreakLabel=1B3849&sideLabels=1B3849&dates=1B3849" alt='current streak' />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-<div>
- <a href="https://www.instagram.com/lucas_whll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-wendell-0271a022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <img height="180em"  width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=compact&title_color=1B3849&border_color=1B3849&bg_color=EDE9E6" alt='most used languages'/>
    
-   ![Snake animation](https://github.com/lucas-wendell/lucas-wendell/blob/output/github-contribution-grid-snake.svg)
-   
-    
+   <img height='180em' width='100%' src='https://github-readme-activity-graph.cyclic.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
+
+![Snake animation](https://github.com/lucas-wendell/lucas-wendell/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
+<h1 align='center'>Contato:</h1>
+<div align='center'>
+  <a href="https://www.instagram.com/lucas_whll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/lucas-wendell-0271a022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href='https://criarmeulink.com.br/u/1675883880'>
+   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+   </a>
+     <a href='https://t.me/lucas_wll' target="_blank">
+   <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
+   </a>
+
+</div>
