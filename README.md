@@ -119,13 +119,13 @@
 <h1 align='center'>Estatísticas</h1>
 
 <div align="center">
-  <img height="180em"  width='100%' src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&show_icons=true&bg_color=EDE9E6&title_color=1B3849&icon_color=FF6F4A&border_color=1B3849&hide=issues,contribs" alt='my stats'/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&show_icons=true&bg_color=EDE9E6&title_color=1B3849&icon_color=FF6F4A&border_color=1B3849&hide=issues,contribs" alt='my stats'/>
 
-  <img height="180em"  width='100%' src="https://streak-stats.demolab.com?user=lucas-wendell&background=EDE9E6&border=1B3849&fire=FF6F4A&stroke=1B3849&ring=1B3849&currStreakNum=FF6F4A&sideNums=FF6F4A&currStreakLabel=1B3849&sideLabels=1B3849&dates=1B3849" alt='current streak' />
+  <img height="180em" src="https://streak-stats.demolab.com?user=lucas-wendell&background=EDE9E6&border=1B3849&fire=FF6F4A&stroke=1B3849&ring=1B3849&currStreakNum=FF6F4A&sideNums=FF6F4A&currStreakLabel=1B3849&sideLabels=1B3849&dates=1B3849" alt='current streak' />
 
-   <img height="180em"  width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=compact&title_color=1B3849&border_color=1B3849&bg_color=EDE9E6" alt='most used languages'/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=compact&title_color=1B3849&border_color=1B3849&bg_color=EDE9E6" alt='most used languages'/>
    
-   <img height='180em' width='100%' src='https://github-readme-activity-graph.cyclic.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
+   <img height='180em' src='https://github-readme-activity-graph.cyclic.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
 
 ![Snake animation](https://github.com/lucas-wendell/lucas-wendell/blob/output/github-contribution-grid-snake.svg)
 
@@ -133,10 +133,13 @@
 
 <h1 align='center'>Contato:</h1>
 <div align='center'>
-  <a href="https://www.instagram.com/lucas_whll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lucas-wendell-0271a022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href='https://criarmeulink.com.br/u/1675883880'>
-   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+  <a href="https://www.instagram.com/lucas.wen_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/lucas-wendell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:lucaswhendellf@gmail.com" target="_blank">
+			<img
+				src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+			/>
+		</a>
    </a>
      <a href='https://t.me/lucas_wll' target="_blank">
    <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
