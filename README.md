@@ -127,8 +127,6 @@
    
    <img height='180em' src='https://github-readme-activity-graph.vercel.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
 
-![Snake animation](https://github.com/lucas-wendell/lucas-wendell/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <h1 align='center'>Contato:</h1>
