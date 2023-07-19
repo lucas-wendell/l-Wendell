@@ -125,7 +125,7 @@
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=compact&title_color=1B3849&border_color=1B3849&bg_color=EDE9E6" alt='most used languages'/>
    
-   <img height='180em' src='https://github-readme-activity-graph.cyclic.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
+   <img height='180em' src='https://github-readme-activity-graph.vercel.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
 
 ![Snake animation](https://github.com/lucas-wendell/lucas-wendell/blob/output/github-contribution-grid-snake.svg)
 
