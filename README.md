@@ -1,11 +1,23 @@
-<h2 align='center'>Olá! Eu sou o Lucas Wendell</h2>
+<h1 align='center'>Desenvolverdor Front-End</h1>
 
-- 💻 Desenvolvedor front-end
+<!-- <h2 align='center'>Sobre</h2> -->
+
+Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaixonado pelo desenvolvimento front-end.
+
+**Algumas Habilidades:**
+
+- **Abordagem Criativa:** Capacidade de transformar designs em códigos interativos, adicionando um toque criativo e estilizado.
+- **Adaptação Responsiva:** Capacidade de criar layouts responsivos que se ajustam perfeitamente a dispositivos de diferentes tamanhos.
+- **Aprendizado Ágil:** Aptidão para assimilar rapidamente novas tecnologias e técnicas, mantendo-me atualizado com as tendências atuais.
+- **Versionamento:** Grande familiaridade com versionamento de código profissional, utilizando conceitos como: <a href='https://semver.org/'>Semantic Versioning (SemVer)</a>, <a href='https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/'>commit semântico</a> e <a href='https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar'>git flow</a>.
+- **Código legível e escálavel:** Conhecimento em <a href='https://www.alura.com.br/artigos/design-patterns-introducao-padroes-projeto'>design pattern</a> para aumentar a escalabilidade e manutenibilidade do código, trazendo assim, mais produtividade para desenvolvedores que estão trabalhando no projeto e consequentemente aumentando o potencial de crescimento da empresa.
+
+<!-- -💻 Desenvolvedor front-end
 - 📚 Estudando JavaScript
 - 🧠 Estudando desde os 15 anos
-- 📍 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
+- 📍 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler -->
 
-<h1 align='center'>Tecnologias</h1>
+<h2 align='center'>Tecnologias</h2>
 
 <table align="center" style="overflow: scroll; max-height: 200px">
 			<tr>
@@ -116,7 +128,7 @@
 			</tr>
 </table>
 
-<h1 align='center'>Estatísticas</h1>
+<h2 align='center'>Estatísticas</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&show_icons=true&bg_color=EDE9E6&title_color=1B3849&icon_color=FF6F4A&border_color=1B3849&hide=issues,contribs" alt='my stats'/>
@@ -129,7 +141,7 @@
 
 </div>
 
-<h1 align='center'>Contato:</h1>
+<h2 align='center'>Contato:</h2>
 <div align='center'>
 	<a href="https://www.instagram.com/lucas.wen_/" target="_blank"
 			><img
