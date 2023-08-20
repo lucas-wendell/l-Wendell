@@ -14,200 +14,6 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 
 <h2 align='center'>Tecnologias</h2>
 
-<!-- <table align="center" style="overflow: scroll; max-height: 200px">
-	<tr>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"
-				width="65px"
-				alt="javascript icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Javascript</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg"
-				width="65px"
-				alt="typescript icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Typescript</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
-				width="65px"
-				alt="react icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>ReactJs</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"
-				width="65px"
-				alt="html icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Html</sub
-			>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"
-				width="65px"
-				alt="css icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Css</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg"
-				width="65px"
-				alt="git icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Git</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"
-				width="65px"
-				alt="figma icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Figma</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://skillicons.dev/icons?i=vite"
-				width="65px"
-				alt="vite icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Vite</sub
-			>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<img
-				src="https://skillicons.dev/icons?i=postman"
-				width="65px"
-				alt="postman icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Postman</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"
-				width="65px"
-				alt="vscode icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>VSCode</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg"
-				width="65px"
-				alt="nextjs icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Next.js</sub
-			>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"
-				width="65px"
-				alt="firebase icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Firebase</sub>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-plain.svg"
-				width="65px"
-				alt="linux icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">Linux</sub>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"
-				width="65px"
-				alt="tailwind icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Tailwind</sub>
-		</td>
-		<td align="center">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg"
-				width="65px"
-				alt="graphql icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Graphql</sub>
-		</td>
-		<td align="center">
-			<img
-				src="./assets/icons/strapi-icon.svg"
-				width="65px"
-				alt="strapi icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Strapi</sub>
-		</td>
-    </tr>
-	<tr>
-		<td align="center">
-			<img
-				src="./assets/icons/styled-components-icon.svg"
-				width="65px"
-				alt="styled-components icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Styled-Components</sub>
-		</td>
-		<td align="center">
-			<img
-				src="./assets/icons/zod-icon.svg"
-				width="65px"
-				alt="zod icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Zod</sub>
-		</td>
-		<td align="center">
-			<img
-				src="./assets/icons/rhf-icon.svg"
-				width="65px"
-				alt="rhf icon"
-			/><br />
-			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Rect-Hook-Form</sub>
-		</td>
-	</tr>
-</table> -->
-
 <table align="center" height="255px">
 	<tr>
 		<td align="center">
@@ -407,15 +213,18 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 </table>
 
 <h2 align='center'>Estatísticas</h2>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=donut-vertical&bg_color=EDE9E6&title_color=1B3849&border_color=1B3849" alt='most used languages'/>
 
-<div align="center">
+<div align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-wendell&show_icons=true&bg_color=EDE9E6&title_color=1B3849&icon_color=FF6F4A&border_color=1B3849&hide=issues,contribs" alt='my stats'/>
 
   <img height="180em" src="https://streak-stats.demolab.com?user=lucas-wendell&background=EDE9E6&border=1B3849&fire=FF6F4A&stroke=1B3849&ring=1B3849&currStreakNum=FF6F4A&sideNums=FF6F4A&currStreakLabel=1B3849&sideLabels=1B3849&dates=1B3849" alt='current streak' />
+</div>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-wendell&layout=compact&title_color=1B3849&border_color=1B3849&bg_color=EDE9E6" alt='most used languages'/>
-   
-   <img height='180em' src='https://github-readme-activity-graph.vercel.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
+<div align='center'>
+
+ <img src='https://github-readme-stats.vercel.app/api/wakatime?username=lucas_wendell' alt='code time'/>
+ <img  height='180em' src='https://github-readme-activity-graph.vercel.app/graph?username=lucas-wendell&bg_color=ede9e6&color=1b3849&line=1b3849&point=ff6f4a&area=true&hide_border=true' alt='My github activity graph'/>
 
 </div>
 
