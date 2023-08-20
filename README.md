@@ -23,7 +23,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="html icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Html</sub
+				><a href='https://pt.wikipedia.org/wiki/HTML'>Html</a></sub
 			>
 		</td>
 		<td align="center">
@@ -33,7 +33,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="css icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Css</sub
+				><a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>Css</a></sub
 			>
 		</td>
 		<td align="center">
@@ -43,7 +43,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="javascript icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Javascript</sub
+				><a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>Javascript</a></sub
 			>
 		</td>
 	</tr>
@@ -55,7 +55,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="typescript icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Typescript</sub
+				><a href='https://www.typescriptlang.org/'>Typescript</a></sub
 			>
 		</td>
 		<td align="center">
@@ -65,7 +65,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="react icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>ReactJs</sub
+				><a href='https://react.dev/'>ReactJs</a></sub
 			>
 		</td>
 		<td align="center">
@@ -75,7 +75,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="nextjs icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Next.js</sub
+				><a href='https://nextjs.org/'>Next.js</a></sub
 			>
 		</td>
 	</tr>
@@ -87,7 +87,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="tailwind icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Tailwind</sub>
+			<a href='https://tailwindcss.com/'>Tailwind</a></sub>
 		</td>
 		<td align="center">
 			<img
@@ -96,7 +96,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="styled-components icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Styled-Components</sub>
+			<a href='https://styled-components.com/'>Styled-Components</a></sub>
 		</td>
 		<td align="center">
 			<img
@@ -105,7 +105,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="figma icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Figma</sub
+				><a href='https://www.figma.com/ui-design-tool/'>Figma</a></sub
 			>
 		</td>
 	</tr>
@@ -117,7 +117,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="firebase icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Firebase</sub>
+				><a href='https://firebase.google.com/'>Firebase</a></sub>
 		</td>
 		<td align="center">
 			<img
@@ -126,7 +126,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="strapi icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Strapi</sub>
+			<a href='https://strapi.io/'>Strapi</a></sub>
 		</td>
 				<td align="center">
 			<img
@@ -135,7 +135,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="graphql icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-			Graphql</sub>
+			<a href='https://graphql.org/'>Graphql</a></sub>
 		</td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
     			width="65px"
     			alt="linux icon"
     		/><br />
-    		<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">Linux</sub>
+    		<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"><a href='https://en.wikipedia.org/wiki/Linux'>Linux</a></sub>
     	</td>
 		<td align="center">
 			<img
@@ -154,7 +154,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="vscode icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>VSCode</sub
+				><a href='https://code.visualstudio.com/'>VSCode</a></sub
 			>
 		</td>
 		<td align="center">
@@ -164,7 +164,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="postman icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Postman</sub
+				><a href='https://www.postman.com/'>Postman</a></sub
 			>
 		</td>
     </tr>
@@ -176,7 +176,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
     			alt="zod icon"
     		/><br />
     		<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-    		Zod</sub>
+    		<a href='https://zod.dev/'>Zod</a></sub>
     	</td>
     	<td align="center">
     		<img
@@ -185,7 +185,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
     			alt="rhf icon"
     		/><br />
     		<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6">
-    		Rect-Hook-Form</sub>
+    		<a href='https://www.react-hook-form.com/'>Rect-Hook-Form</a></sub>
     	</td>
 		<td align="center">
 			<img
@@ -194,7 +194,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="vite icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Vite</sub
+				><a href='https://vitejs.dev/'>Vite</a></sub
 			>
 		</td>
     </tr>
@@ -206,7 +206,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 				alt="git icon"
 			/><br />
 			<sub style="font-family: sans-serif; font-weight: 700; color: #ede9e6"
-				>Git</sub
+				><a href='https://git-scm.com/'>Git</a></sub
 			>
 		</td>
 	</tr>
