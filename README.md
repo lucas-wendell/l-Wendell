@@ -208,7 +208,7 @@ Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaix
 	</tr>
 </table> -->
 
-<table align="center" style="overflow: scroll; max-height: 200px">
+<table align="center" height="255px">
 	<tr>
 		<td align="center">
 			<img
