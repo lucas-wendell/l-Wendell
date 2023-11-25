@@ -4,6 +4,8 @@
 
 Olá! Me chamo Lucas Wendell e sou um entusiasta de tecnologia com um foco apaixonado pelo desenvolvimento front-end.
 
+<i>"The great algorithms are the poetry of computation" - Francis Sullivan</i>
+
 **Algumas Habilidades:**
 
 - **Abordagem Criativa:** Capacidade de transformar designs em códigos interativos, adicionando um toque criativo e estilizado.
